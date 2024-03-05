@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.div-containerRED {
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    padding: 5px;
+    margin: 20px;
+    border-radius: 100%;
+    position: absolute;

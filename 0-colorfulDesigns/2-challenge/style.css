@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.div-containerRED {
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    padding: 5px;
+    margin: 20px;
+    border-radius: 100%;
+    position: absolute;
+}
+.div-containerTURQUOISE {
+    background-color: turquoise;
+    height: 100px;
+    width: 100px;
+    padding: 5px;
+    margin-top: 20%;
+    margin-left: 55%;
+    border-radius: 100%;
+    position: absolute;
+}
+.div-containerCHEETO {
+    background-color: orange;
+    height: 100px;
+    width: 100px;
+    padding: 5px;
+    margin-top: 10%;
+    margin-left: 90%;
+    border-radius: 100%;
+    position: absolute;
+}
+.div-containerCORNBLUE {
+    background-color: cornflowerblue;
+    height: 100px;
+    width: 100px;
+    padding: 5px;
+    margin-top: 60%;
+    margin-left: 10%;
+    border-radius: 100%;
+    position: absolute;
+}
+.div-containerPURPLE {
+    background-color: purple;
+    height: 100px;
+    width: 100px;
+    padding: 5px;
+    margin-top: 70%;
+    margin-left: 45%;
+    border-radius: 100%;
+    position: absolute;
+}
+.div-containerGREEN {
+    background-color: green;
+    height: 100px;
+    width: 100px;
+    padding: 5px;
+    margin-top: 80%;
+    margin-left: 80%;
+    border-radius: 100%;
+    position: absolute;
+}
